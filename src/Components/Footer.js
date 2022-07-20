@@ -5,7 +5,7 @@ import github from './github.png'
 
 function Footer() {
   return (
-    <div>
+    <div className="fo">
       <p className="footer">
         <span className='spn'><a href='none'><img src={twitter}/></a></span>
         <span className='spn'><a href='none'><img src={fb}/></a></span>

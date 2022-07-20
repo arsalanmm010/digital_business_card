@@ -1,4 +1,4 @@
-import img from './WhatsApp Image 2021-10-21 at 17.54.37.jpeg'
+import img from './WhatsApp Image 2021-10-21 at 17.51.24.jpeg'
 
 function Main() {
   return (
